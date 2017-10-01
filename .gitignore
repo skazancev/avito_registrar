@@ -1,0 +1,5 @@
+*.pyc
+x.py
+venv
+local.py
+*.sqlite3
