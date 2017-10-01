@@ -261,8 +261,9 @@ class Avito(object):
         36 попыток запроса статуса с интервалом 5 секунд, затем переотправка кода
         6 попыток переотправки кода, т.к. время действия телефона 20 минут (рекурсионно)
         36 * 5 * 6 == 18 минут
-        :return:
+        :return: код подтверждения
         """
+        self.verify_attempt += 1
         self.driver.find_element_by_class_name('button-azure-text').click()
         code = None
 

@@ -128,7 +128,6 @@ PHONE_API_KEY = 'be8eca333aa27d336b46818e104f31b837a732d9'
 # ANTICAPTCHA settings
 ANTICAPTCHA_KEY = 'eee9c65efdd28782ea8563c3923ea510'
 
-
 # Yandex domain
 YANDEX_DOMAIN = 'foroffline.ru'
 YANDEX_TOKEN = 'test'
