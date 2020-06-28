@@ -15,7 +15,7 @@ Pillow==4.2.1
 pycurl==7.43.0
 pytils==0.3
 pytz==2017.2
-requests==2.18.4
+requests==2.20.0
 selection==0.0.13
 selenium==3.6.0
 six==1.11.0
