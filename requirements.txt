@@ -5,7 +5,7 @@ celery==4.1.0
 certifi==2017.7.27.1
 chardet==3.0.4
 defusedxml==0.5.0
-Django==1.11.29
+Django==2.2.24
 grab==0.6.38
 idna==2.6
 kombu==4.1.0
