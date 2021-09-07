@@ -11,7 +11,7 @@ idna==2.6
 kombu==4.1.0
 lxml==4.0.0
 olefile==0.44
-Pillow==4.2.1
+Pillow==8.3.2
 pycurl==7.43.0
 pytils==0.3
 pytz==2017.2
