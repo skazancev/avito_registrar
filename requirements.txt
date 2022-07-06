@@ -9,7 +9,7 @@ Django==1.11.29
 grab==0.6.38
 idna==2.6
 kombu==4.1.0
-lxml==4.0.0
+lxml==4.9.1
 olefile==0.44
 Pillow==4.2.1
 pycurl==7.43.0
